@@ -1,3 +1,5 @@
+-- this is a test
+
 Welcome to your new dbt project!
 
 ### Using the starter project
